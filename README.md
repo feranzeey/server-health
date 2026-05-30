@@ -118,4 +118,4 @@ Through this project, I practiced:
 
 Oluwaferanmi Dada
 
-Aspiring DevOps Engineer | Linux | AWS | Python | GitHub
+DevOps Engineer | Linux | AWS | Python | GitHub
